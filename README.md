@@ -1,6 +1,8 @@
 # Tax_Constella
 
-Metagraph to demonstrate tax registrations using Constellation Network's technology.
+Metagraph to demonstrate tax registrations using Constellation Network's technology
+
+Project by Lalit + Vishnu + Laxmi Patel, submitted to the Constellation Metagraph Hackathon 2024
 
 # YouTube Video
 
@@ -43,3 +45,9 @@ We learned Constellation Network's technology, concepts related to this technolo
 ## What's next for Tax Constella
 
 We will improve the metagraph to make it more acceptable for tax registrations.
+
+# Note
+
+This repository contains developer_dashboard and sample_ui folders, which are slighly different form these folders in Constellation Network's repository.
+
+This repository does not contain other folders, which are same as in Constellation Network's repository.
