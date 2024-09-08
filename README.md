@@ -1,4 +1,4 @@
-# Tax_Constella
+# Tax Constella
 
 Metagraph to demonstrate tax registrations using Constellation Network's technology
 
