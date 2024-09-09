@@ -6,7 +6,11 @@ Project by Lalit + Vishnu + Laxmi Patel, submitted to the Constellation Metagrap
 
 # YouTube Video
 
-https://devpost.com/software/tax-constella
+https://youtu.be/aMC8G4TgRC4
+
+# Demonstration Website:
+
+https://clinos.us
 
 # DevPost Submission
 
